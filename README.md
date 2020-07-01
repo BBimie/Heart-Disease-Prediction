@@ -40,6 +40,14 @@ Medical(current)
 
 Predict variable (desired target)
 - 10 year risk of coronary heart disease CHD (binary: “1”, means “Yes”, “0” means “No”)
+
+### Projects
+I worked on this topic two separate times, the preliminary data modelling can be found in **heart.ipynb**. I used Logistic regression model for prediction here.
+
+I took a second look at the project when I learned more about machine learning, and I applied more predictive models to my data and also used different evaluation merics to see exactly how well my models performed, you can see that in **comparing different models.ipynb**
  
-A technical article explaining this project has been published on medium here:
+A technical article explaining the first project has been published on medium here:
 https://medium.com/@babatolatemi/heart-disease-prediction-a-logistic-regression-implementation-from-python-scikit-learn-c4eb391a873f
+
+Another techical article detailing the processes used in the second project, can be found here:
+https://medium.com/@babatolatemi/a-second-look-into-heart-disease-prediction-53c262476607
